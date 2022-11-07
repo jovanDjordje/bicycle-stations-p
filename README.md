@@ -18,7 +18,7 @@ Etter installasjon, naviger til filen BysykkelApp.py og kjør følgende kommando
 Hvis alt går bra, vil programmet åpne et gui-vindu der resultatene vil vises. \ 
 GUI-biblioteket som brukes til å vise resultatene, gir kolonnesortering ved å dobbeltklikke på 
 kolonneoverskriften. \
-![Skjermskudd TABLE](https://github.com/j/ovanDjordje/bicycle-stations-p/blob/master/table.jpeg?raw=true)
+![alt text](https://github.com/jovanDjordje/bicycle-stations-p/blob/master/table.jpeg?raw=true)
 
 ### Noen refleksjoner:
 Jeg valgte å systemavslutte appen i try/exception in fetch_data-metoden. 
