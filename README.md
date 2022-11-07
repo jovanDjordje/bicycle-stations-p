@@ -10,7 +10,7 @@ stasjonsnavn, kapasitet, antall sykler og dokker tilgjengelig.
 ### Installasjon:
 - install requests:   ```python -m pip install requests```
 - install pandas:     ```python -m pip install pandas```
-- install tkinter     ```python -m pip install tkinter```
+- install tkinter     ```python -m pip install tk```
 - install pandastable ```python -m pip pip install pandastable```
 ### Bruk:
 Etter installasjon, naviger til filen BysykkelApp.py og kjør følgende kommando for å kjøre appen: \
